@@ -1,0 +1,17 @@
+com\school\mis\service\ReportMasterService.class
+com\school\mis\entity\Department.class
+com\school\mis\SeniorSchoolMisApplication.class
+com\school\mis\dto\ReportFilterRequest.class
+com\school\mis\repository\ReportParameterRepository.class
+com\school\mis\config\CorsConfig.class
+com\school\mis\entity\ReportExecutionLog.class
+com\school\mis\dto\ReportExecutionResponse.class
+com\school\mis\repository\ReportExecutionLogRepository.class
+com\school\mis\controller\ReportController.class
+com\school\mis\repository\DepartmentRepository.class
+com\school\mis\entity\ReportParameter.class
+com\school\mis\config\CorsConfig$1.class
+com\school\mis\entity\ReportMaster.class
+com\school\mis\service\ReportExecutionService.class
+com\school\mis\service\ReportExportService.class
+com\school\mis\repository\ReportMasterRepository.class

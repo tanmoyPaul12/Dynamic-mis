@@ -1,0 +1,16 @@
+C:\code\OS\dynamic-mis\backend\src\main\java\com\school\mis\config\CorsConfig.java
+C:\code\OS\dynamic-mis\backend\src\main\java\com\school\mis\controller\ReportController.java
+C:\code\OS\dynamic-mis\backend\src\main\java\com\school\mis\dto\ReportExecutionResponse.java
+C:\code\OS\dynamic-mis\backend\src\main\java\com\school\mis\dto\ReportFilterRequest.java
+C:\code\OS\dynamic-mis\backend\src\main\java\com\school\mis\entity\Department.java
+C:\code\OS\dynamic-mis\backend\src\main\java\com\school\mis\entity\ReportExecutionLog.java
+C:\code\OS\dynamic-mis\backend\src\main\java\com\school\mis\entity\ReportMaster.java
+C:\code\OS\dynamic-mis\backend\src\main\java\com\school\mis\entity\ReportParameter.java
+C:\code\OS\dynamic-mis\backend\src\main\java\com\school\mis\repository\DepartmentRepository.java
+C:\code\OS\dynamic-mis\backend\src\main\java\com\school\mis\repository\ReportExecutionLogRepository.java
+C:\code\OS\dynamic-mis\backend\src\main\java\com\school\mis\repository\ReportMasterRepository.java
+C:\code\OS\dynamic-mis\backend\src\main\java\com\school\mis\repository\ReportParameterRepository.java
+C:\code\OS\dynamic-mis\backend\src\main\java\com\school\mis\SeniorSchoolMisApplication.java
+C:\code\OS\dynamic-mis\backend\src\main\java\com\school\mis\service\ReportExecutionService.java
+C:\code\OS\dynamic-mis\backend\src\main\java\com\school\mis\service\ReportExportService.java
+C:\code\OS\dynamic-mis\backend\src\main\java\com\school\mis\service\ReportMasterService.java
